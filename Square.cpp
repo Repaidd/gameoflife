@@ -1,5 +1,4 @@
 #include "Square.h"
-#include <iostream>
 
 Square::Square(int px, int py, SDL_Renderer* renderer, SDL_Window* win) {
 	x = px; y = py;
